@@ -22,6 +22,13 @@ pom.xml - 자바, 스프링프레임워크 버전 설정 => Maven / update Proje
             </plugin>
             
 * 프로젝트 설정
-
 project Facets / Dynamic web 3.1
+
+* 테이블 생성
+
+
+
+
+
+
             
